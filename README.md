@@ -17,7 +17,7 @@ A list of verified devices/combinations of the Geekworm LVDS to HDMI and Arcade1
 | ------------- | -------------------- | ----- | ----- | ----------- | ----------     | ------ | ------
 | Asus          | VG278                | 27    | V1.5  | VS/BB       |                | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_asus_vg278.gif)     | [link](https://www.youtube.com/watch?v=FllN1r_UOLg&t=1242s)
 | Dell          | P1914Sf              | 14    | V1.5  | VS/BB       | HDMI to VGA    | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_dell_p1914sf.gif) |[link](https://youtu.be/I8MovSVPnP4?t=19)       |
-| GeChic        | 1101P                | 11.6  | V1.5  | VS/BB       |                | WIP       |  WIP      |
+| GeChic        | 1101P                | 11.6  | V1.5  | VS/BB       |                | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_gechic_1101p.gif)       |[link](https://www.youtube.com/watch?v=qbcmKnASI-Q&t=1s)      |
 | Samsung       | S22F350FH            | 22    | V1.5  | VS/BB       |                | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_samsung_s22f350.gif)      |[link](https://youtu.be/I8MovSVPnP4?t=12)        |
 | TCL           | 43S405               | 43    | V1.5  | VS/BB       |                | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_tcl_43s405.gif)       |[link](https://youtu.be/I8MovSVPnP4?t=15)         |
 | WiiMaxit      | M1020                | 10    | V1.5  | VS/BB       |                | [🖼](./compat-data/v1.5/vs-bb/vsbb_v15_wiimaxit_m1020.gif)      |[link](https://youtu.be/ZbNe2T2hxqU?t=393)
@@ -26,8 +26,6 @@ A list of verified devices/combinations of the Geekworm LVDS to HDMI and Arcade1
 
 <span style="font-size:10pt;font-style:italic">**VS/BB**: X-Men vs SF, Marvel vs Capcom, Big Blue</span>
 
-NOTE: the table above are all verified devices, but just posting as-is without videos as a temporary exception
-to get this project rolling. The data will be populated shortly during the upcoming week.
 
 ## Submitting Devices
 Your help is greatly appreciated, and we all benefit as people looking for devices can save time and money looking for monitors to upgrade our cab. This is especially as this is a bootstrapped project, with no official support at this time from either Arcade1UP or Geekworm. To submit a device, please create an issue, including:
