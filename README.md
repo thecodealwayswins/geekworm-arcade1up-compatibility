@@ -37,11 +37,11 @@ Your help is greatly appreciated, and we all benefit as people looking for devic
 - (optional) any known issues to be aware of -- not to include pin configs that don't work, as this is primarily an inclusionary vs exclusionary list.
 - if it is your first time contributing, please provide a name and link to add to the contributors section below.
 
-Alternatively, if this proves to be difficult due to familiarity with GitHub, please feel free to post an issue on this repo.
+Alternatively, if this proves to be difficult due to familiarity with GitHub, please feel free to email me (scroll down to end of this document for more info).
 
 ⚠ *Please do not submit info about devices that do not work. This is because it may dissuade others from trying, and there is always a possibility that your board may have manufacturing defects* ⚠
 
-Over time, how to do this will be documented more clearly. But again your help is appreciated here.
+Over time, how to do this will be documented more clearly. But again any help is appreciated here.
 
 ## Correcting Inaccuracies
 If you have a monitor listed that turns out has some pin config wrong or the board was falsely listed, please let us know by creating an issue.
@@ -57,7 +57,7 @@ If you have a monitor listed that turns out has some pin config wrong or the boa
 
 ## Acknowledgements
 
-Thanks to TheRealSmilebit for creating the Geekworm Discord, which was created well before this list here. There are also many other people including Kong and Rotendo who did things very early on with that there, testing as they went and trying things to provide some idea that this can be used to connect to an external monitor via LVDS (not to exclude anyone if that has been done). And obviously, Geekworm and Arcade1UP for inventing the things that this is oriented around.
+Thanks to [TheRealSmilebit](https://www.youtube.com/channel/UCCEIy55LJfntICD4uJti9mw) for creating the Geekworm Discord, which was created well before this list here. There are also many other people including [Kong](https://www.youtube.com/c/KongsRUs) and [RoTeNdO](https://www.youtube.com/channel/UCdHcbiIRYGNVBkI0COdzLww) who did things very early on with that there, testing as they went and trying things to provide some idea that this can be used to connect to an external monitor via LVDS (not to exclude anyone if that has been done). And obviously, Geekworm and Arcade1UP for inventing the things that this is oriented around.
 
 ## Note
 
